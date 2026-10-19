@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "packages": {
+    "neovim": {
+      "latest": "0.9.5",
+      "versions": {
+        "0.9.5": {
+          "url": "https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-win64.zip"
+        },
+        "0.9.4": {
+          "url": "https://github.com/neovim/neovim/releases/download/v0.9.4/nvim-win64.zip"
+        }
+      }
+    }
+  }
+}
